@@ -1,6 +1,6 @@
 # Linear Regression Model Implementation
  
- ![Naive Bayes](https://img.shields.io/badge/Implementation-Linear%20Regression-darkgreen) 
+ ![Naive Bayes](https://img.shields.io/badge/Implementation-Linear%20Regression-darkblue) 
 
 This repository showcases the implementation of a simple Linear Regression model using Python's `scikit-learn` library. The dataset used for training and testing the model is stored in the `data.csv` file. The main implementation is in the `Model.py` file, and a Jupyter notebook (`Linear_Regression_Model.ipynb`) is provided for a detailed walkthrough.
 
