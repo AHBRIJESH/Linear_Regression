@@ -6,7 +6,7 @@ This repository showcases the implementation of a simple Linear Regression model
 
 ## Files and Structure
 
-- **Model.py:**
+- **Model.ipynb:**
   - Contains the implementation of the Linear Regression model.
   - Imports necessary libraries and loads the dataset from `data.csv`.
   - Utilizes the `LinearRegression` function from `scikit-learn` for model training.
@@ -28,11 +28,7 @@ This repository showcases the implementation of a simple Linear Regression model
    cd linear-regression-model
    ```
 
-2. Run the `Model.py` script or explore the Jupyter notebook (`Linear_Regression_Model.ipynb`) to understand the implementation and make predictions.
-
-   ```bash
-   python Model.py
-   ```
+2. Run the `Model.ipynb` script or explore the Jupyter notebook (`Linear_Regression_Model.ipynb`) to understand the implementation and make predictions.
 
 3. Experiment with the dataset and tweak the model parameters for different scenarios.
 
